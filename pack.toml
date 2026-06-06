@@ -1,0 +1,13 @@
+name = "Packwiz"
+author = "Chloe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c2c9b9b2ef02c1af8c5c9601c31c1e02e06b8aa58b638fdc8449739f22a45cc3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

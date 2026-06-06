@@ -1,0 +1,8 @@
+name = "paucal"
+filename = "paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://ci.blamejared.com/job/petrakat/job/PAUCAL/job/1.21/27/artifact/Neoforge/build/libs/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"

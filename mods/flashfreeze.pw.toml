@@ -1,0 +1,13 @@
+name = "FlashFreeze"
+filename = "flashfreeze-neoforge-0.4.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OX7oyAQX/versions/fMXSX4ND/flashfreeze-neoforge-0.4.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "77fc2477491a7c0a17cb863f5794d275fcf07d4626c66a7cfc100b8682a49e47f0eb434739d46487d63eed360bedf2754e7d3162d0fbe76bb4c708904f608195"
+
+[update]
+[update.modrinth]
+mod-id = "OX7oyAQX"
+version = "fMXSX4ND"

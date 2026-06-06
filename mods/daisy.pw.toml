@@ -1,0 +1,13 @@
+name = "Daisy"
+filename = "Daisy-neoforge-1.0.2-test.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s6dgwBzy/versions/FRTVjpTz/Daisy-neoforge-1.0.2-test.jar"
+hash-format = "sha512"
+hash = "ccfa362589c5d24b61765760c601d01494dfd3d8009e13045a083837359e8a4cae2696c38576d9b76cf9cbfe1d7807f2142cc996a444913f3c9a11d9f168fdb7"
+
+[update]
+[update.modrinth]
+mod-id = "s6dgwBzy"
+version = "FRTVjpTz"

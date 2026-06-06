@@ -1,0 +1,13 @@
+name = "Create Aeronautics Lift Patch"
+filename = "create-aeronautics-lift-patch-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wEWnF0xx/versions/b5GqYXEI/create-aeronautics-lift-patch-1.1.0.jar"
+hash-format = "sha512"
+hash = "149484359f8fef802cb9e7796167d1e0e8a328cbed1d66f0fe3b5fedae420f2dbbbe0430675d192bd23adf2fbc613be5a590e1d2c6c223589403d63e32fe5524"
+
+[update]
+[update.modrinth]
+mod-id = "wEWnF0xx"
+version = "b5GqYXEI"

@@ -1,0 +1,13 @@
+name = "Styled Nicknames"
+filename = "styled-nicknames-1.6.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOk6Gcdi/versions/U9pXTyh2/styled-nicknames-1.6.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "d9145ead6134537ed0bba9f9c7ebdf6cfe290df2cae75417faf4d296835f84540851f618c942ee20d9f58b1c94b44d801edc0a909c6495028a9b0fd6f18bd4d9"
+
+[update]
+[update.modrinth]
+mod-id = "DOk6Gcdi"
+version = "U9pXTyh2"

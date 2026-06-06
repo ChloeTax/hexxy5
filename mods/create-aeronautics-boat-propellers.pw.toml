@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Boat Propellers"
+filename = "create aeronautics boatpropellers.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rzsvsn8U/versions/iMJISpM8/create%20aeronautics%20boatpropellers.jar"
+hash-format = "sha512"
+hash = "041ca6a33c52695b6f93e42ece34b30ab3fcfd7045fb68dc1cce7eb440fc1ba8cd2209896dee16d8b1d6cad0c6bd55291010ace25bfd020d6988f8caf898b581"
+
+[update]
+[update.modrinth]
+mod-id = "Rzsvsn8U"
+version = "iMJISpM8"
