@@ -1,0 +1,13 @@
+name = "Defaulted Hotkeys"
+filename = "defaulted_hotkeys-2.1.1-1.21.8-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fE4Yg12d/versions/QBGCVBzF/defaulted_hotkeys-2.1.1-1.21.8-neoforge.jar"
+hash-format = "sha512"
+hash = "2e3fa3d29469d19812f683a3db3f7dd9d301e3a92a1b758fe8ea778a5da620d9286579571439f20b8530b33501ef995f9ece86c0763f3889eca368de998fec26"
+
+[update]
+[update.modrinth]
+mod-id = "fE4Yg12d"
+version = "QBGCVBzF"

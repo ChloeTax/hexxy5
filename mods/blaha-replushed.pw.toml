@@ -1,0 +1,13 @@
+name = "Blahaj - Replushed"
+filename = "blahaj-fabric-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5bb5rG4b/versions/CkMaXmRe/blahaj-fabric-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "42112431e80dde6ccf3fa96171be1f4e52a9383e764e802b134a1cf3fe8081d5bbabb0d5a5e004306a4a07452626bbb5a07bd921adf1fdbacf33e39cd542c0ce"
+
+[update]
+[update.modrinth]
+mod-id = "5bb5rG4b"
+version = "CkMaXmRe"

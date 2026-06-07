@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Gyro Stabilizers"
+filename = "Create Aeronautics Gyroscope Stabilizers.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JcEFpckH/versions/9P9dNVUn/Create%20Aeronautics%20Gyroscope%20Stabilizers.jar"
+hash-format = "sha512"
+hash = "5f763963b5e11863980494b9e140437512d91f7033adc0cb80af8a784579792f34c6691ed2787d02160c3a1dabc07a509d7109e62d7d7535ad53309426d774cb"
+
+[update]
+[update.modrinth]
+mod-id = "JcEFpckH"
+version = "9P9dNVUn"

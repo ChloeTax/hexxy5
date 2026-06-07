@@ -1,0 +1,13 @@
+name = "Create Additions - Sable Compat"
+filename = "sable_createaddition_compat-0.1.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5njdnAZ8/versions/x7OaOLDX/sable_createaddition_compat-0.1.13.jar"
+hash-format = "sha512"
+hash = "c10892194489c531b23f374e8b0d8c79595805a86be10ba8a371b0fef70e20e5350924936f06a0bb9a0594921ee85f541995a600d9f4221ca28340ece3319f7d"
+
+[update]
+[update.modrinth]
+mod-id = "5njdnAZ8"
+version = "x7OaOLDX"
