@@ -1,0 +1,13 @@
+name = "Observable"
+filename = "observable-5.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYRu7qmG/versions/f8lSH3bs/observable-5.4.4.jar"
+hash-format = "sha512"
+hash = "e594ed3a4a211158db1282202a48ded9b824d2f326e985d86116ad1709b6111cf41eba3f6ad9a4a84a8053bc8a641f955c1d4090b5776bfb9448580c26816185"
+
+[update]
+[update.modrinth]
+mod-id = "VYRu7qmG"
+version = "f8lSH3bs"
