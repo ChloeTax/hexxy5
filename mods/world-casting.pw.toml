@@ -1,8 +1,0 @@
-name = "world-casting"
-filename = "world-casting-neoforge-1.21.1-0.0.0-6.jar"
-side = "both"
-
-[download]
-url = "https://maven.ryanhcode.dev/releases/dev/kyanbirb/world_casting/world-casting-neoforge-1.21.1/0.0.0-6/world-casting-neoforge-1.21.1-0.0.0-6.jar"
-hash-format = "sha256"
-hash = "822893a323b20ddadae73dfc7ff99df5aa2ad8eaf0968d05d330c53e6f852447"
