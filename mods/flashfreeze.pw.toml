@@ -1,0 +1,13 @@
+name = "FlashFreeze"
+filename = "flashfreeze-fabric-0.4.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OX7oyAQX/versions/PSMH680U/flashfreeze-fabric-0.4.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "ad819cc08f1a2a0d461915c346ee469973d19ebbac152764d9a77f7b8523c02cdfd3d32174defeba9016fa50659238e9301dccfcf519e21a6f4287757687ac49"
+
+[update]
+[update.modrinth]
+mod-id = "OX7oyAQX"
+version = "PSMH680U"

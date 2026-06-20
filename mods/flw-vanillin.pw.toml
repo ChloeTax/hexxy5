@@ -1,0 +1,13 @@
+name = "Vanillin"
+filename = "vanillin-fabric-1.21.1-1.1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6qTrsXCy/versions/JvVNmEal/vanillin-fabric-1.21.1-1.1.3.jar"
+hash-format = "sha512"
+hash = "d0f09f12c24498cbc39e3bbc50041ed18a65df524f2bdd37b63adcae8f967f33ba2656ba6a09fa629e1f18d794538bdb5ff9541a91344ce23377ff39bcdf7958"
+
+[update]
+[update.modrinth]
+mod-id = "6qTrsXCy"
+version = "JvVNmEal"

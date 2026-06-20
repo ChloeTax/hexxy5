@@ -1,0 +1,13 @@
+name = "Defaulted Hotkeys"
+filename = "defaulted_hotkeys-2.1.1-1.21.8-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fE4Yg12d/versions/toeQ1x66/defaulted_hotkeys-2.1.1-1.21.8-fabric.jar"
+hash-format = "sha512"
+hash = "7a42a42698b81267f24eb90b7dfa2e559ed4a221e598b6e2c8b18fa6dcbed55239da470120ad2f1f7ca12ff44fe40fb0777f1ce8452ed031779c3e32d037a085"
+
+[update]
+[update.modrinth]
+mod-id = "fE4Yg12d"
+version = "toeQ1x66"
