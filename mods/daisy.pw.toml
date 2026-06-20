@@ -1,0 +1,13 @@
+name = "Daisy"
+filename = "Daisy-fabric-1.0.2-test.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s6dgwBzy/versions/6nw3yX5Q/Daisy-fabric-1.0.2-test.jar"
+hash-format = "sha512"
+hash = "20ee4038c6c9788cd69c48bf52a6ba7f52227a710061396b218edbe152d81e9795d426b5caa250984a10b25ce7a2886289683423b20ce6617c2a8e79f7e6cec9"
+
+[update]
+[update.modrinth]
+mod-id = "s6dgwBzy"
+version = "6nw3yX5Q"
