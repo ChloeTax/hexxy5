@@ -1,8 +1,8 @@
 name = "hexcasting"
-filename = "hexcasting-fabric-1.20.1-0.11.3-pre-808.jar"
+filename = "hexcasting-fabric-1.21.1-0.12.0-devel-pre-16.jar"
 side = "both"
 
 [download]
-url = "https://ci.blamejared.com/job/petrakat/job/Hexcasting/job/main/808/artifact/Fabric/build/libs/hexcasting-fabric-1.20.1-0.11.3-pre-808.jar"
+url = "https://ci.blamejared.com/job/petrakat/job/Hexcasting/job/1.21/16/artifact/Fabric/build/libs/hexcasting-fabric-1.21.1-0.12.0-devel-pre-16.jar"
 hash-format = "sha256"
-hash = "11ebb2e00ae9edb44b9342e278b6fca350ace7c1c98f3b6a1b81d483618fff88"
+hash = "8a5650e5833791d2c382d443de5fa43c9ad342f93b15639d53fbb3b142e38f8e"
