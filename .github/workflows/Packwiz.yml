@@ -1,0 +1,51 @@
+name: Packwiz
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build_packwiz_packs:
+    runs-on: ubuntu-24.04
+    steps:
+      - run: sudo GOBIN=/usr/local/bin go install github.com/packwiz/packwiz@latest
+  
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main
+      - name: build main pack
+        working-directory: main
+        run: |
+          bash -c "rm -rf $(cat .packwizignore | xargs)"
+          echo "hash-format = \"sha256\"" > index.toml
+          /usr/local/bin/packwiz refresh --build
+          
+      - uses: actions/checkout@v4
+        with:
+          ref: dev
+          path: dev
+      - name: build dev pack
+        working-directory: dev
+        run: |
+          bash -c "rm -rf $(cat .packwizignore | xargs)"
+          echo "hash-format = \"sha256\"" > index.toml
+          /usr/local/bin/packwiz refresh --build
+  
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+          
+  deploy:
+    runs-on: ubuntu-24.04
+    if: github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build_packwiz_packs
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
