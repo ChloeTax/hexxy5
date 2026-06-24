@@ -1,0 +1,13 @@
+name = "Jade Sable Compat"
+filename = "sablejade-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCrJ4iGH/versions/7HFg7hFp/sablejade-1.2.1.jar"
+hash-format = "sha512"
+hash = "22eac9e6fc352d566b096c3878c649d795c97bdec4a02e4960687d56c6c8dc425a1dab9b03ed47ecfe7ae4fcdabecdbde0a6f23b1c9b83c52221852bbd9deac5"
+
+[update]
+[update.modrinth]
+mod-id = "jCrJ4iGH"
+version = "7HFg7hFp"

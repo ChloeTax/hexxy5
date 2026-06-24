@@ -1,0 +1,8 @@
+name = "world-casting"
+filename = "world-casting-fabric-1.21.1-0.0.0-8.jar"
+side = "both"
+
+[download]
+url = "https://maven.ryanhcode.dev/releases/dev/kyanbirb/world_casting/world-casting-fabric-1.21.1/0.0.0-8/world-casting-fabric-1.21.1-0.0.0-8.jar"
+hash-format = "sha256"
+hash = "cd85994668606f5cdee381ec2ec79cb80ea09230aaabe610f60be2c106791dab"
