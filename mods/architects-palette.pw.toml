@@ -1,0 +1,13 @@
+name = "Architect's Palette"
+filename = "architects_palette-fabric-1.21.1-1.4.0-beta.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vt0VyseM/versions/XrOSU78u/architects_palette-fabric-1.21.1-1.4.0-beta.5.jar"
+hash-format = "sha512"
+hash = "cd8e6325f5ca15aa111297c19714cdb68554da2e9a3432eadf42cd296b3d744d2de9406b32483ac06e7cd5224d77ab268283d2058e762cc51215b664d0a5df1d"
+
+[update]
+[update.modrinth]
+mod-id = "vt0VyseM"
+version = "XrOSU78u"
