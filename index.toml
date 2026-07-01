@@ -276,6 +276,10 @@ file = "mods/servercore.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/shuttfup.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/simulated-copycats.pw.toml"
 metafile = true
 
@@ -329,6 +333,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
 metafile = true
 
 [[files]]
