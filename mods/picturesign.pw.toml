@@ -1,0 +1,13 @@
+name = "PictureSign"
+filename = "picturesign-fabric-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9WP2dmkk/versions/Fufi3aiS/picturesign-fabric-2.0.1.jar"
+hash-format = "sha512"
+hash = "2a43d87307157f0d7fdf321e9e7dfff12c6589e309fddd6478dd033a3f9440330e601d3c96935c5a23535366b01ae428f4e2f3cd08f49a32e75f9578be51b507"
+
+[update]
+[update.modrinth]
+mod-id = "9WP2dmkk"
+version = "Fufi3aiS"
