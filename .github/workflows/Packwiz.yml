@@ -34,9 +34,9 @@ jobs:
       #     echo "hash-format = \"sha256\"" > index.toml
       #     /usr/local/bin/packwiz refresh --build
   
-      # - uses: actions/upload-pages-artifact@v3
-      #   with:
-      #     path: .
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
 
           
   deploy:
