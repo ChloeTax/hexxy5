@@ -7,7 +7,13 @@ file = "LICENSE"
 file = "config/picturesign.json"
 
 [[files]]
+file = "config/xaero/minimap/client.cfg"
+
+[[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
 
 [[files]]
 file = "mods/Kilt-21.1.4+build.a92096-nightly.jar"
@@ -249,6 +255,10 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
 metafile = true
 
 [[files]]
