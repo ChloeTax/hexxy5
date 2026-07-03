@@ -16,7 +16,7 @@ file = "config/xaero/minimap/profiles/default.cfg"
 file = "config/xaero/world-map/client.cfg"
 
 [[files]]
-file = "mods/Kilt-21.1.4+build.a92096-nightly.jar"
+file = "mods/Kilt-21.1.6+build.0f7dd0-nightly.jar"
 
 [[files]]
 file = "mods/accessories.pw.toml"
