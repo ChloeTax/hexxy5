@@ -314,6 +314,10 @@ file = "mods/spark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/styled-nicknames.pw.toml"
 metafile = true
 
