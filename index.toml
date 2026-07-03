@@ -75,6 +75,10 @@ file = "mods/continents.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 metafile = true
 
@@ -287,6 +291,10 @@ metafile = true
 
 [[files]]
 file = "mods/schematicians-goggles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
