@@ -147,6 +147,10 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fabrication.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 metafile = true
 
