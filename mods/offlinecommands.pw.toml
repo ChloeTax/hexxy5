@@ -1,0 +1,13 @@
+name = "OfflineCommands"
+filename = "OfflineCommands-1.0.1+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rkgXkDl7/versions/F4BpLp04/OfflineCommands-1.0.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "9abe0eea3f63aeb82326b50d74125f368607fca7dbc43d7b3b482bae9917fd8dbec14058dbd05b4cb3b54a8ba14a2dbd57ce8dc366b692465619b8bc4cd1e03a"
+
+[update]
+[update.modrinth]
+mod-id = "rkgXkDl7"
+version = "F4BpLp04"

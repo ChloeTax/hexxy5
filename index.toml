@@ -255,6 +255,10 @@ file = "mods/observable.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/offlinecommands.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims-fabric-1.21.1-0.27.5.jar"
 
 [[files]]
