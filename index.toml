@@ -227,6 +227,10 @@ file = "mods/no-chat-reports.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 metafile = true
 
