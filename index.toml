@@ -39,6 +39,10 @@ file = "mods/blaha-replushed.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 metafile = true
 
