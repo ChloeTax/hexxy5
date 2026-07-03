@@ -270,10 +270,6 @@ file = "mods/quark.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/raknetify.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 metafile = true
 
