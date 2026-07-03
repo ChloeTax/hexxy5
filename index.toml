@@ -195,6 +195,10 @@ file = "mods/lootr.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/markdown-manual-renewed.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 metafile = true
 
@@ -319,6 +323,10 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tis3d-renewed.pw.toml"
 metafile = true
 
 [[files]]
