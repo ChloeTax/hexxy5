@@ -39,6 +39,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/blaha-replushed.pw.toml"
 metafile = true
 
@@ -236,6 +240,10 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
 metafile = true
 
 [[files]]
