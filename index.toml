@@ -19,6 +19,10 @@ file = "config/xaero/world-map/client.cfg"
 file = "mods/Kilt-21.1.6+build.0f7dd0-nightly.jar"
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 metafile = true
 
@@ -347,6 +351,10 @@ metafile = true
 
 [[files]]
 file = "mods/tis3d-renewed.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
