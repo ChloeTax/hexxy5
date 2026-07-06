@@ -4,6 +4,18 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "config/NCR-Client.json"
+
+[[files]]
+file = "config/create-client.toml"
+
+[[files]]
+file = "config/item_obliterator.json5"
+
+[[files]]
+file = "config/modmenu.json"
+
+[[files]]
 file = "config/picturesign.json"
 
 [[files]]
@@ -362,10 +374,6 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tis3d-renewed.pw.toml"
 metafile = true
 
 [[files]]
