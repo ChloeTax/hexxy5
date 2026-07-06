@@ -1,0 +1,620 @@
+{
+  "redstone": {
+    "speaker_block": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "narrator_enabled": true,
+      // Accepted range: 0 to 10000
+      "max_text": 32,
+      // note that it will still only keep alive the two fire blocks closer to it
+      // Accepted range: 0 to 16
+      "range": 64
+    },
+    "bellows": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 1 to 512
+      "base_period": 78,
+      // Accepted range: 0.0 to 100.0
+      "power_scaling": 2.0,
+      // Accepted range: 0.0 to 64.0
+      "base_velocity_scaling": 5.0,
+      // note that it will still only keep alive the two fire blocks closer to it
+      // Accepted range: 0 to 16
+      "range": 5
+    },
+    "spring_launcher": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 0.0 to 16.0
+      "velocity": 1.5,
+      // Accepted range: 0 to 512
+      "fall_height_required": 5
+    },
+    "enderman_head": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "drop_head": true,
+      // Accepted range: 0 to 10000
+      "ticks_to_increase_power": 15,
+      "work_from_any_side": false
+    },
+    "turn_table": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "rotate_entities": true,
+      "shuffle_containers": true
+    },
+    "pulley_block": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 0.0 to 1.0
+      "mineshaft_elevator": 0.035
+    },
+    "dispenser_minecart": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "adjust_projectile_angle": true
+    },
+    "faucet": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "spill_items": true,
+      "fill_entities_below": false
+    },
+    "crystal_display": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "chaining": true
+    },
+    "wind_vane": true,
+    "clock_block": true,
+    "redstone_illuminator": true,
+    "crank": true,
+    "cog_block": true,
+    "gold_door": true,
+    "gold_trapdoor": true,
+    "lock_block": true,
+    "relayer": true
+  },
+  "functional": {
+    "rope": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "block_side_attachment": true,
+      "slide_on_fall": true,
+      "horizontal_ropes": true
+    },
+    "jar": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 1 to 256
+      "capacity": 12,
+      "drink_from_jar": false,
+      "drink_from_jar_item": false,
+      "jar_auto_detect": false,
+      "jar_capture": true,
+      "jar_cookies": true,
+      "jar_liquids": true
+    },
+    "cage": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "allow_all_mobs": false,
+      "cage_allow_all_babies": false,
+      "cage_auto_detect": false,
+      "persistent_mobs": false,
+      // Accepted range: 1 to 100
+      "health_threshold": 100,
+      "require_taming": true
+    },
+    "safe": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "prevent_breaking": false,
+      "simple_safes": false
+    },
+    "sack": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "sack_penalty": true,
+      // Accepted range: 1 to 50
+      "sack_increment": 2,
+      // Accepted range: 1 to 9
+      "slots": 9
+    },
+    "bamboo_spikes": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "tipped_spikes": true,
+      "player_loot": false,
+      "only_allow_harmful_effects": true,
+      "populate_creative_tab": true
+    },
+    "urn": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 0.0 to 1.0
+      "critter_spawn_chance": 0.01,
+      "cave_urns": true
+    },
+    "soap": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "block_cleaning_enabled": true,
+      "clean_blacklist": [
+        "minecraft:glazed_terracotta",
+        "botania:mystical_flower",
+        "mna:chimerite_crystal",
+        "botania:floating_flower",
+        ",minecraft:mushroom",
+        "botania:mushroom",
+        "botania:tall_mystical_flower",
+        "botania:petal_block",
+        "morered:network_cable",
+        "xycraft_world:glowing_shiny_aurey_block",
+        "xycraft_world:shiny_aurey_block",
+        "xycraft_world:rgb_lamp",
+        "xycraft_world:glowing_rgb_viewer",
+        "xycraft_world:glowing_matte_rgb_block",
+        "xycraft_world:rgb_lamp_pole"
+      ],
+      "special_blocks": {
+        "quark:dirty_glass": "minecraft:glass",
+        "#alexscaves:cave_paintings": "alexscaves:smooth_limestone",
+        "quark:dirty_glass_pane": "minecraft:glass_pane"
+      }
+    },
+    "cannon": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted values: IGNITE, IGNITE_ON_IMPACT, NONE
+      "explode_tnt": "IGNITE",
+      // Accepted range: 0.0 to 5.0
+      "fire_power": 0.6,
+      // Accepted range: 0 to 500
+      "fuse_time": 40,
+      // Accepted range: 0 to 500
+      "cooldown": 60,
+      "cannon_boat": {
+        // Adds dragon banner pattern made from dragon head
+        "enabled": true,
+        // Accepted range: 0.0 to 5.0
+        "recoil_multiplier": 0.5
+      },
+      "cannonball": {
+        // Adds dragon banner pattern made from dragon head
+        "enabled": true,
+        // Accepted range: 0.0 to 100.0
+        "power_scaling": 3.5,
+        // Accepted range: 0.0 to 10.0
+        "break_radius": 1.1
+      },
+      "plunderer": {
+        // Adds dragon banner pattern made from dragon head
+        "enabled": true,
+        "galleon": true
+      },
+      "music_disc_heave_ho": true
+    },
+    "present": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "trapped_present": true
+    },
+    "flax": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "wild_flax": true
+    },
+    "lumisene": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "lumisene_bottle": {
+        // Adds dragon banner pattern made from dragon head
+        "enabled": true,
+        // Accepted range: 0 to 10000
+        "flammable_duration": 300,
+        // Accepted range: 0 to 10000
+        "glowing_duration": 200
+      },
+      // Accepted range: 0 to 10000
+      "flammable_from_lumisene_block_duration": 50
+    },
+    "fodder": true,
+    "hourglass": true
+  },
+  "building": {
+    "spider_head": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "barnacles": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "blackboard": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "colored_blackboard": false,
+      // Accepted values: BOTH, GUI, MANUAL
+      "interaction_mode": "BOTH"
+    },
+    "gravel_bricks": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "allow_breaking": true
+    },
+    "slidy_block": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 0 to 20
+      "speed": 0.125
+    },
+    "timber_frame": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "swap_on_shift": false,
+      "axes_strip": true,
+      "replace_daub": true
+    },
+    "iron_gate": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "double_opening": true,
+      "door-like_gates": false
+    },
+    "gold_bars": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "item_shelf": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "climbable_shelves": false
+    },
+    "sugar_cube": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 0 to 1000
+      "horse_speed_duration": 10
+    },
+    "planter": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "broken_by_sapling": false,
+      "rich_soil_planter": true
+    },
+    "notice_board": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "allow_any_item": false,
+      "gui": true
+    },
+    "pedestal": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "ash": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 0.0 to 1.0
+      "ash_from_fire_chance": 1.0,
+      "rain_wash_ash": true,
+      "basalt_ash": true
+    },
+    "flag": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "stick_pole": true,
+      // Accepted range: 0 to 256
+      "pole_length": 16
+    },
+    "goblet": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "allow_drinking": true
+    },
+    "globe": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "show_coordinates": true,
+      "sepia_globe": true
+    },
+    "way_sign": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "road_signs": {
+        // Adds dragon banner pattern made from dragon head
+        "enabled": true,
+        "show_distance_text": true,
+        // Accepted range: 1 to 1000
+        "max_search_radius": 200,
+        "exit_search_early": true,
+        // Accepted range: 1 to 1000
+        "max_structures_searches": 12
+      }
+    },
+    "daub": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "wattle_and_daub": true
+    },
+    "ash_bricks": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "hat_stand": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "unrestricted": false
+    },
+    "awning": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "slant": true,
+      "shift_through": true,
+      // Accepted range: 0.0 to 90.0
+      "angle": 69.44395478041653
+    },
+    "flower_box": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "simple_mode": true
+    },
+    "netherite_doors": {
+      "door": true,
+      "trapdoor": true,
+      "unbreakable": false
+    },
+    "lapis_bricks": true,
+    "deepslate_lamp": true,
+    "end_stone_lamp": true,
+    "blackstone_lamp": true,
+    "stone_lamp": true,
+    "stone_tile": true,
+    "blackstone_tile": true,
+    "bunting": true,
+    "sconce": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "sconce_lever": true
+    },
+    "pancake": true,
+    "checker_block": true,
+    "raked_gravel": true,
+    "feather_block": true,
+    "statue": true,
+    "doormat": true,
+    "flint_block": true,
+    "fine_wood": true,
+    "candle_holder": true,
+    "fire_pit": true,
+    "wicker_fence": true
+  },
+  "tools": {
+    "quiver": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "use_without_slow": true,
+      // Accepted range: 1 to 9
+      "slots": 6,
+      // Accepted range: 0.0 to 1.0
+      "quiver_skeleton_spawn_chance": 0.03,
+      "quiver_skeleton_spawn_depend_on_global_difficulty": true,
+      "only_works_in_curio": false,
+      "quiver_pickup": true
+    },
+    "lunch_basket": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "placeable": true,
+      // Accepted range: 1 to 9
+      "slots": 6
+    },
+    "slice_map": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 0.0 to 5.0
+      "range_multiplier": 0.25
+    },
+    "bubble_blower": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 1 to 25
+      "stasis_cost": 5,
+      "bubble_block": {
+        // Accepted range: 1 to 10000
+        "lifetime": 1200,
+        "break_when_touched": true,
+        // Accepted range: 1 to 1000000
+        "max_charges": 200
+      }
+    },
+    "wrench": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted values: MAIN_HAND, OFF_HAND, BOTH, NONE
+      "bypass_when_on": "MAIN_HAND"
+    },
+    "rope_arrow": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 1 to 256
+      "capacity": 32,
+      "exclusive_to_crossbows": false
+    },
+    "flute": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "unbound": false,
+      // Accepted range: 0 to 500
+      "unbound_radius": 64,
+      // Accepted range: 0 to 500
+      "bound_distance": 64
+    },
+    "bomb": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 0.1 to 10.0
+      "explosion_radius": 2.0,
+      // Accepted values: ALL, WEAK, NONE
+      "break_blocks": "WEAK",
+      // Accepted range: 0 to 100000
+      "bomb_fuse": 0,
+      // Accepted range: 0 to 500
+      "cooldown": true,
+      "blue_bomb": {
+        // Accepted range: 0.1 to 10.0
+        "explosion_radius": 5.15,
+        // Accepted values: ALL, WEAK, NONE
+        "break_blocks": "WEAK"
+      }
+    },
+    "slingshot": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 0.0 to 5.0
+      "range_multiplier": 1.0,
+      // Accepted range: 0 to 100
+      "charge_time": 20,
+      // Accepted range: 0.1 to 1.0
+      "stasis_deceleration": 0.9625,
+      "unrestricted_enderman_intercept": true,
+      "allow_buckets": true,
+      // Accepted range: 0.0 to 100.0
+      "damageable_damage": 0.5,
+      "allow_splash_potions": false,
+      "allow_bombs": false,
+      "allow_fire_charges": false,
+      "allow_snowballs": false,
+      "allow_enderpearls": false
+    },
+    "antique_ink": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "candy": true,
+    "stasis": true,
+    "altimeter": true,
+    "confetti_popper": true
+  },
+  "general": {
+    // Accepted values: ALWAYS, CACHED, CACHED_ZIPPED, NEVER
+    "dynamic_assets_generation_mode": "CACHED",
+    "creative_tab": false,
+    "dispensers": true,
+    "sanity_checks_messages": true,
+    // Accepted range: 0.0 to 10.0
+    "red_merchant_spawn_multiplier": 1.0
+  },
+  "tweaks": {
+    "dragon_banner_pattern": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "ai_tweaks": {
+      // Allows pillagers to use cannon boats. Add more entities to the 'supplementaries:can_use_cannon_boat' tag to allow them to use cannon boats as well
+      "pillagers_use_cannon_boats": true,
+      // Allows mobs to dismount from boats when on land. Add more entities to the 'supplementaries:can_dismount_boats' tag to allow them to dismount as well
+      "raiders_dismount_boats": true
+    },
+    "golden_apple_disenchant": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "traders_open_doors": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "dispenser_tweaks": {
+      "axe_strip": true,
+      "shoot_ender_pearls": true,
+      "extract_from_bundles": true
+    },
+    "throwable_bricks": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "placeable_sticks": {
+      "sticks": true,
+      "blaze_rods": true
+    },
+    "placeable_gunpowder": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      // Accepted range: 0 to 20
+      "speed": 2,
+      // Accepted range: 0 to 8
+      "spread_age": 2
+    },
+    "raked_gravel": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "bottle_xp": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": false,
+      // Accepted range: 0 to 20
+      "cost": 2,
+      "target_block": ""
+    },
+    "map_tweaks": {
+      "random_adventurer_maps": {
+        // Adds dragon banner pattern made from dragon head
+        "enabled": true,
+        // Accepted range: 1 to 1000
+        "max_search_radius": 100,
+        // Accepted range: 1 to 1000
+        "max_structures_searches": 1
+      },
+      "block_map_markers": true,
+      // Accepted values: OFF, WITH_COMPASS, ALWAYS
+      "death_marker": "WITH_COMPASS",
+      "tinted_blocks_on_maps": true
+    },
+    "placeable_books": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "mixed_books": false
+    },
+    "zombie_horse": {
+      "zombie_horse_conversion": true,
+      // Accepted range: 1 to 1000
+      "rotten_flesh": 64,
+      "rideable_underwater": true,
+      "zombie_horse_inverse_conversion": true
+    },
+    "noteblocks_scare": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "bad_luck_tweaks": {
+      "lightning_unluck": true
+    },
+    "item_lore": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "sus_recipes": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true
+    },
+    "slimed_effect": {
+      // Adds dragon banner pattern made from dragon head
+      "enabled": true,
+      "throwable_slimeballs": false,
+      // Accepted values: NEVER, ALWAYS, NORMAL_DIFFICULTY, HARD_DIFFICULTY
+      "hinders_jump": "NORMAL_DIFFICULTY",
+      // Accepted range: 0 to 1000
+      "duration": 300,
+      // Accepted range: 0.0 to 1.0
+      "chance_per_slime_size": 0.15
+    },
+    "clock_and_compass": {
+      "clock_right_click": true,
+      "compass_right_click": false,
+      "works_in_unnatural_dimensions": false
+    }
+  }
+}

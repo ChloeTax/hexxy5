@@ -22,6 +22,9 @@ file = "config/picturesign.json"
 file = "config/quark-common.toml"
 
 [[files]]
+file = "config/supplementaries-common.json"
+
+[[files]]
 file = "config/xaero/minimap/client.cfg"
 
 [[files]]
