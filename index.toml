@@ -165,6 +165,10 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fabric-custom-names.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
@@ -361,10 +365,6 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/styled-nicknames.pw.toml"
 metafile = true
 
 [[files]]

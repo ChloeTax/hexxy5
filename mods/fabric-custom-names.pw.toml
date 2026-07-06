@@ -1,0 +1,13 @@
+name = "Fabric Custom Names"
+filename = "customname-0.3.3-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/saIlazMs/versions/j2U5ylWP/customname-0.3.3-1.21.1.jar"
+hash-format = "sha512"
+hash = "0e3875865712470f5450126b3abcfdd3792b9714a737ffe56afef772c1995ea2197d5d5a2b25eb3d845512307126f0bf5a6231014aec1bf6b575e9b602612ba3"
+
+[update]
+[update.modrinth]
+mod-id = "saIlazMs"
+version = "j2U5ylWP"
