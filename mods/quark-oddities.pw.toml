@@ -1,0 +1,13 @@
+name = "Quark Oddities"
+filename = "QuarkOddities-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qeEEslrN/versions/GKlsdzEg/QuarkOddities-1.21.1.jar"
+hash-format = "sha512"
+hash = "6bf1db5c078acf259be047c441b02c5185d126f68b2008da8fc3e801066c8e81c00f15ceeff99cb88b7249dbeb4010a1eda05ac4f2f6548b19e9534278e5998b"
+
+[update]
+[update.modrinth]
+mod-id = "qeEEslrN"
+version = "GKlsdzEg"

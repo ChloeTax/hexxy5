@@ -293,6 +293,10 @@ file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/quark-oddities.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 metafile = true
 
