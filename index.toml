@@ -217,6 +217,10 @@ file = "mods/jei.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/jline4mcdsrv.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 metafile = true
 

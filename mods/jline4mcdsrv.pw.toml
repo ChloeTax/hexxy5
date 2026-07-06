@@ -1,0 +1,13 @@
+name = "JLine for Dedicated Server"
+filename = "jline4mcdsrv-0.7.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9mnPo3ZV/versions/fj6vEpkO/jline4mcdsrv-0.7.0.jar"
+hash-format = "sha512"
+hash = "e6e5142b230962b362046a001da49c91851535ac9c893897f8e892d0e8015c8ee3634872c9c2fbc7bd2a3a1b566d9e35e202c96639a35834653a569da842bc35"
+
+[update]
+[update.modrinth]
+mod-id = "9mnPo3ZV"
+version = "fj6vEpkO"
