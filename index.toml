@@ -34,7 +34,7 @@ file = "config/xaero/minimap/profiles/default.cfg"
 file = "config/xaero/world-map/client.cfg"
 
 [[files]]
-file = "mods/Kilt-21.1.6+build.0f7dd0-nightly.jar"
+file = "mods/Kilt-21.1.8+build.efe21e-nightly.jar"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -165,10 +165,6 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fabric-custom-names.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
@@ -177,7 +173,19 @@ file = "mods/fabrication.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
 metafile = true
 
 [[files]]
@@ -226,6 +234,10 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
 metafile = true
 
 [[files]]
@@ -369,6 +381,10 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
 metafile = true
 
 [[files]]
