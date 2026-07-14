@@ -1,13 +1,13 @@
 name = "Continents"
-filename = "Continents_26.1_v1.1.13.jar"
+filename = "Continents_26.2_v1.1.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/WxCjDRzw/Continents_26.1_v1.1.13.jar"
+url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/bVXaqvWr/Continents_26.2_v1.1.14.jar"
 hash-format = "sha512"
-hash = "139dffc2ca0f7f1a1a97d4658531084fd8db8071ae012c852eeec95f7df542a29222babf8684e2eac1971b296f49693da2aeccd15b48b3cb9e82e0767c9ed181"
+hash = "c6ce875302ae2dc7962480135af970e64e70c19f28fffb2bdabc6d7cb9ea832d36c9a31cd5a1a71346b95dd23c033843702f4688ca4f533f7890a5757bd3ec82"
 
 [update]
 [update.modrinth]
 mod-id = "bQ5TJA1E"
-version = "WxCjDRzw"
+version = "bVXaqvWr"

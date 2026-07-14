@@ -45,6 +45,10 @@ file = "mods/aero_cam_sync.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/aeronauticsvoidseas.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -145,6 +149,18 @@ file = "mods/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 metafile = true
 
@@ -237,6 +253,10 @@ file = "mods/kubejs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 metafile = true
 
@@ -325,6 +345,14 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/portable-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
 metafile = true
 
 [[files]]

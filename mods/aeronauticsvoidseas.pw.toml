@@ -1,0 +1,13 @@
+name = "More Aeronautics Void Seas"
+filename = "aeronauticsvoidseas-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ueT8djtc/versions/9URXkkbu/aeronauticsvoidseas-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "d098684886fb9cc484248b049b1c58b65347d6b04ec8f5f9c87bbf55549f0775e2a77a3dd3695bb70ef7c98b5c2d2185426257e7a9c7ed108002ec9c3fae0816"
+
+[update]
+[update.modrinth]
+mod-id = "ueT8djtc"
+version = "9URXkkbu"
