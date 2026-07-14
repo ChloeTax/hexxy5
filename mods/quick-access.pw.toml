@@ -1,0 +1,13 @@
+name = "Quick Access"
+filename = "quick_access-1.0.0-fabric+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/txuT2FxB/versions/XwPBe6TM/quick_access-1.0.0-fabric%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "528d415f46b0b55e04b4e0b19a72ab4164eea991283286178aa6c49f3bd2a91b6f5ae32e748f05567eaf5f218498132da8d64dbeba4638dc44bc0e27386dc13f"
+
+[update]
+[update.modrinth]
+mod-id = "txuT2FxB"
+version = "XwPBe6TM"

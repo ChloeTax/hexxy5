@@ -348,10 +348,6 @@ file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/portable-crafting.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 metafile = true
 
@@ -361,6 +357,10 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quick-access.pw.toml"
 metafile = true
 
 [[files]]
