@@ -7,6 +7,9 @@ file = "LICENSE"
 file = "config/NCR-Client.json"
 
 [[files]]
+file = "config/bobby.conf"
+
+[[files]]
 file = "config/create-client.toml"
 
 [[files]]
@@ -54,6 +57,10 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
 metafile = true
 
 [[files]]
@@ -166,10 +173,6 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
