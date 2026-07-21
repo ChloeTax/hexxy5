@@ -28,6 +28,9 @@ file = "config/quark-common.toml"
 file = "config/supplementaries-common.json"
 
 [[files]]
+file = "config/tectonic.json"
+
+[[files]]
 file = "config/xaero/minimap/client.cfg"
 
 [[files]]
