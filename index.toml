@@ -37,9 +37,6 @@ file = "config/xaero/minimap/profiles/default.cfg"
 file = "config/xaero/world-map/client.cfg"
 
 [[files]]
-file = "mods/Kilt-21.1.8+build.efe21e-nightly.jar"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 metafile = true
 
@@ -241,6 +238,10 @@ metafile = true
 
 [[files]]
 file = "mods/jline4mcdsrv.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kilt.pw.toml"
 metafile = true
 
 [[files]]

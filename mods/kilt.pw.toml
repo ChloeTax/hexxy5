@@ -1,0 +1,13 @@
+name = "Kilt"
+filename = "Kilt-21.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t87XZEqv/versions/HQvmo8sn/Kilt-21.1.9.jar"
+hash-format = "sha512"
+hash = "0603eefcc8e61d2c2630bc44465516d4c7622cd70f1714cc867bb8793508329fdf43cbe1639b75b012ff4e4a784f1e63af412ba176cc6f79963e69738451d670"
+
+[update]
+[update.modrinth]
+mod-id = "t87XZEqv"
+version = "HQvmo8sn"
