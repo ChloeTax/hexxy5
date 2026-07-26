@@ -76,6 +76,10 @@ file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bottle-your-xp.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 metafile = true
 
@@ -104,6 +108,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/configurable.pw.toml"
 metafile = true
 
@@ -113,6 +121,10 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
 metafile = true
 
 [[files]]
@@ -196,6 +208,10 @@ file = "mods/fastback.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 metafile = true
 
@@ -216,8 +232,7 @@ file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting.pw.toml"
-metafile = true
+file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-1.jar"
 
 [[files]]
 file = "mods/inline.pw.toml"
