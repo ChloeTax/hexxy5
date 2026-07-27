@@ -17,7 +17,9 @@
   //    Example: minecraft:diamond
   "blacklisted_items": [
     "copycats:copycat_cogwheel",
-    "copycats:copycat_shaft"
+    "copycats:copycat_shaft",
+    "copycats:copycat_large_cogwheel",
+    "createaddition:electrum_amulet"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
