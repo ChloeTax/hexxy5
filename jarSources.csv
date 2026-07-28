@@ -1,2 +1,2 @@
 name,source,branch,commit,artifact
-Kilt-21.1.6+build.0f7dd0-nightly.jar,https://github.com/KiltMC/Kilt.git,version/1.21.1,0f7dd0fdf613bc0564e316dc3f6562115bc37a55,https://github.com/KiltMC/Kilt/actions/runs/28652318619
+hexcasting-fabric-1.21.1-0.12.0-devel-pre-36.jar,https://github.com/FallingColors/HexMod.git,1.21,2b336a743d4f580ee0f6933363a89f532a12b6e8,https://ci.blamejared.com/job/petrakat/job/Hexcasting/job/1.21/36/artifact/Fabric/build/libs/hexcasting-fabric-1.21.1-0.12.0-devel-pre-36.jar
