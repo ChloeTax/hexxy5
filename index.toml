@@ -232,7 +232,7 @@ file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-36.jar"
+file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-1.jar"
 
 [[files]]
 file = "mods/inline.pw.toml"
