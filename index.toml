@@ -156,6 +156,10 @@ file = "mods/daisy.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/defaulted-hotkeys.pw.toml"
 metafile = true
 
@@ -232,7 +236,11 @@ file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-1.jar"
+file = "mods/hexal.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-39.jar"
 
 [[files]]
 file = "mods/inline.pw.toml"
@@ -308,6 +316,10 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
 metafile = true
 
 [[files]]

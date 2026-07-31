@@ -1,0 +1,8 @@
+name = "hexal"
+filename = "hexal-0.3.1-NEOFORGE-DEVEL-pre-5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/c-Caelum/hexal-neoforge-1.21.1/releases/download/pre-5/hexal-0.3.1-NEOFORGE-DEVEL-pre-5.jar"
+hash-format = "sha256"
+hash = "704aeeb759c3155135e9e003041830aad2125a08ba00bf7b2438068481a332a9"
