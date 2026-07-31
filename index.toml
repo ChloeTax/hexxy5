@@ -13,6 +13,12 @@ file = "config/bobby.conf"
 file = "config/create-client.toml"
 
 [[files]]
+file = "config/fabrication/features.ini"
+
+[[files]]
+file = "config/fabrication/item_despawn.ini"
+
+[[files]]
 file = "config/item_obliterator.json5"
 
 [[files]]
