@@ -253,6 +253,10 @@ file = "mods/inline.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ioticblocks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/item-obliterator.pw.toml"
 metafile = true
 
