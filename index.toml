@@ -70,6 +70,10 @@ file = "mods/auth-me.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 metafile = true
 
