@@ -304,7 +304,7 @@
 		"Enable Armor Interaction" = true
 		"Enable Shulker Box Interaction" = false
 		"Enable Lava Interaction" = true
-		"Allow Opening Shulker Boxes" = true
+		"Allow Opening Shulker Boxes" = false
 		"Allow Rotating Bundles" = true
 
 	[management.inventory_sorting]
@@ -1588,7 +1588,7 @@
 	[client.improved_tooltips]
 		"Attribute Tooltips" = true
 		"Food Tooltips" = true
-		"Shulker Tooltips" = true
+		"Shulker Tooltips" = false
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
 		"Fuel Time Tooltips" = true

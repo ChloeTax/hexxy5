@@ -186,6 +186,10 @@ file = "mods/easy-magic.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 metafile = true
 
