@@ -94,6 +94,10 @@ file = "mods/cardinal-components-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 metafile = true
 
