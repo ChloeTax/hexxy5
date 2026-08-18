@@ -404,6 +404,10 @@ file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/playerheads+.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 metafile = true
 

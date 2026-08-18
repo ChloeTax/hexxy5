@@ -1,0 +1,13 @@
+name = "PlayerHeads+"
+filename = "PlayerHeadsPlus-fq-1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jjEMM6eS/versions/iY5Sx2hy/PlayerHeadsPlus-fq-1.21.11.jar"
+hash-format = "sha512"
+hash = "9627616d0484cf13ec8210f8de90fa323e5b14c3d510a3d00254a52f94eddc96de60e03873fbc5e4565ad6d73f231b3be20fcc236f84b9b87f666d61cdf0c674"
+
+[update]
+[update.modrinth]
+mod-id = "jjEMM6eS"
+version = "iY5Sx2hy"
