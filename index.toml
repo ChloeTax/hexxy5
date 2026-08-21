@@ -496,6 +496,10 @@ file = "mods/terralith.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/unloaded-activity.pw.toml"
 metafile = true
 
