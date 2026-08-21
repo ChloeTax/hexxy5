@@ -262,8 +262,7 @@ file = "mods/forge-config-api-port.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/hexal.pw.toml"
-metafile = true
+file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-11.jar"
 
 [[files]]
 file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-48.jar"
