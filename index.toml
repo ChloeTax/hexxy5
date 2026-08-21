@@ -258,7 +258,7 @@ file = "mods/hexal.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-39.jar"
+file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-48.jar"
 
 [[files]]
 file = "mods/inline.pw.toml"
