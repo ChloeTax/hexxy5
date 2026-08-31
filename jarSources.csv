@@ -1,2 +1,4 @@
 name,source,branch,commit,artifact
-// hexcasting-fabric-1.21.1-0.12.0-devel-pre-36.jar,https://github.com/FallingColors/HexMod.git,1.21,2b336a743d4f580ee0f6933363a89f532a12b6e8,https://ci.blamejared.com/job/petrakat/job/Hexcasting/job/1.21/36/artifact/Fabric/build/libs/hexcasting-fabric-1.21.1-0.12.0-devel-pre-36.jar
+hexcasting-fabric-1.21.1-0.12.0-devel-pre-48.jar,https://github.com/FallingColors/HexMod.git,1.21,085b18b84921dd8024bc596e0444a8685dc4e69a ,https://ci.blamejared.com/job/petrakat/job/Hexcasting/job/1.21/48/artifact/Fabric/build/libs/hexcasting-fabric-1.21.1-0.12.0-devel-pre-48.jar
+styled-chat-2.6.1+1.21.jar,https://github.com/alexyzer/StyledChat.git,1.21-softer-mixin,3a696870d86a307469608424ed68bc9f8416538e
+hexal-0.3.1-NEOFORGE-DEVEL-pre-11.jar,https://github.com/alexyzer/hexal-neoforge-1.21.1.git,mote-fixes,441a30e27a74ffab5b3d3f401b80dab7cf64775d

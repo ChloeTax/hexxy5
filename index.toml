@@ -496,8 +496,7 @@ file = "mods/stackdeobf.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/styled-chat.pw.toml"
-metafile = true
+file = "mods/styled-chat-2.6.1+1.21.jar"
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
