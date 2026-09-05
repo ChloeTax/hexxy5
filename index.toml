@@ -360,6 +360,10 @@ file = "mods/mc2discord.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mixin-helper.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 metafile = true
 
