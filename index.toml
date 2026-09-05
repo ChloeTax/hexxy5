@@ -70,6 +70,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 metafile = true
 
