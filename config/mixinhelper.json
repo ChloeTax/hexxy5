@@ -1,0 +1,36 @@
+{
+  "_WARNING": "USE AT YOUR OWN RISK. Incorrect use can cause crashes, broken mods, and world corruption. Back up your worlds. Do NOT report bugs to mod authors if you have modified their mixins with this tool.",
+  "enabled": true,
+  "blacklist": {
+    "mixins": [
+      "me.basiqueevangelist.multicam.mixin.client.OwoScissorStackMixin",
+      "net.mehvahdjukaar.supplementaries.mixins.PistonBaseBlockMixin",
+      "com.simibubi.create.foundation.mixin.ProjectileUtilMixin"
+  ],
+    "mixinConfigs": [],
+    "targetClasses": []
+  },
+  "priorities": {
+    "mixinConfigPriorities": {},
+    "mixinPriorities": {}
+  },
+  "methodRemovals": {
+    "rules": []
+  },
+  "audit": {
+    "enabled": true,
+    "outputFile": "config/mixinhelper-report.json",
+    "includeAnnotations": true
+  },
+  "debug": {
+    "verbose": false,
+    "logBlacklistActions": true,
+    "logMethodRemovals": true
+  },
+  "guardrails": {
+    "enabled": true,
+    "bypassProtectedClasses": false,
+    "additionalProtectedPatterns": [],
+    "excludeFromProtection": []
+  }
+}
