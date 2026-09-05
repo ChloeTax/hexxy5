@@ -22,6 +22,9 @@ file = "config/fabrication/item_despawn.ini"
 file = "config/item_obliterator.json5"
 
 [[files]]
+file = "config/mixinhelper.json"
+
+[[files]]
 file = "config/modmenu.json"
 
 [[files]]
@@ -174,6 +177,10 @@ file = "mods/createaddition.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cynosure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/daisy.pw.toml"
 metafile = true
 
@@ -219,6 +226,10 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
 metafile = true
 
 [[files]]
@@ -469,6 +480,10 @@ metafile = true
 
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]

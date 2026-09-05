@@ -1,0 +1,13 @@
+name = "Cynosure"
+filename = "cynosure-1.0.2-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4JVfdODB/versions/52JMhvFG/cynosure-1.0.2-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "944bafe46a583232106d9f075a1e5b0a275c6c23c54804d0f1292a3c44903d078bdc62e5590dae912c4de98e542e2b41b8b531142501638f655a9a2a9f1df215"
+
+[update]
+[update.modrinth]
+mod-id = "4JVfdODB"
+version = "52JMhvFG"

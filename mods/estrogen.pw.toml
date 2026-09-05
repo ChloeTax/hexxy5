@@ -1,0 +1,13 @@
+name = "Estrogen"
+filename = "estrogen-6.0.8+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/rU48jDbv/estrogen-6.0.8%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "133636b8eae17f58fb672983249eaa5ba36d693345f734ac60ebc6e55aeef2f5e1aee722fa7893eadc2df86af5212089eeef1d96705b252c5cb107f623142bc1"
+
+[update]
+[update.modrinth]
+mod-id = "HhIJW8n1"
+version = "rU48jDbv"
