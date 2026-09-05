@@ -1,0 +1,13 @@
+name = "Material Beacons"
+filename = "material-beacons-1.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QLLz3XcD/versions/eYEGqZKO/material-beacons-1.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "854a9b2b1c5902903352074ab52534d2df7230e4d03a424d85b8d04b631ebd492b5190b184728af5b2dcfd04501099f1d36bcc3760036be2ac02d7fec8c49dcf"
+
+[update]
+[update.modrinth]
+mod-id = "QLLz3XcD"
+version = "eYEGqZKO"
