@@ -10,7 +10,7 @@ jobs:
   build_packwiz_packs:
     runs-on: ubuntu-24.04
     steps:
-      - run: sudo GOBIN=/usr/local/bin go install github.com/packwiz/packwiz@latest
+      - run: sudo GOBIN=/usr/local/bin go install github.com/packwiz/packwiz@dfd8b68a4796c763e25bad50265ea1f1233e24f1
   
       - uses: actions/checkout@v4
         with:
