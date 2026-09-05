@@ -254,6 +254,10 @@ file = "mods/figura.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fishcasting.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/flashfreeze.pw.toml"
 metafile = true
 
@@ -263,6 +267,10 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -516,6 +524,10 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Fishcasting"
+filename = "fishcasting-0.2.10-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pXVLNcw1/versions/Oh7Jnh50/fishcasting-0.2.10-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "8f4c5c94ff8e82ca04fa0b754b1e6caf1c0edeaba35b2d91ce2c2b7c6ea6b95427d2dcef9770d960053db9024ced68aea962812dbc582a7cf8c77de2b00edae5"
+
+[update]
+[update.modrinth]
+mod-id = "pXVLNcw1"
+version = "Oh7Jnh50"
