@@ -19,7 +19,13 @@
     "copycats:copycat_cogwheel",
     "copycats:copycat_shaft",
     "copycats:copycat_large_cogwheel",
-    "createaddition:electrum_amulet"
+    "createaddition:electrum_amulet",
+    "create:schematic",
+    "create:schematic_and_quill",
+    "create:schematic_table",
+    "create:schematicannon",
+    "create:empty_schematic",
+    "tide:fish_display"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
