@@ -177,6 +177,10 @@ file = "mods/createaddition.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/createschematicchecker.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cynosure.pw.toml"
 metafile = true
 
