@@ -1,0 +1,13 @@
+name = "BandwidthOptimizer"
+filename = "BandwidthOptimizer-5.10.30.112-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9fzjUecF/versions/DOl7YQYW/BandwidthOptimizer-5.10.30.112-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "1fbcf83838788004c3c808032d61e422edd9a364d02f532c8a2a06d5ee998760b32aadb6ace853d7c5f710626c927be158471db2b8b6b97eb8a915e917192a93"
+
+[update]
+[update.modrinth]
+mod-id = "9fzjUecF"
+version = "DOl7YQYW"

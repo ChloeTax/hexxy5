@@ -22,6 +22,9 @@ file = "config/fabrication/item_despawn.ini"
 file = "config/item_obliterator.json5"
 
 [[files]]
+file = "config/lithium.properties"
+
+[[files]]
 file = "config/mixinhelper.json"
 
 [[files]]
@@ -86,6 +89,10 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bandwidthoptimizer.pw.toml"
 metafile = true
 
 [[files]]
@@ -360,6 +367,10 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
 metafile = true
 
 [[files]]
