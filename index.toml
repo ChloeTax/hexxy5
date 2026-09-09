@@ -92,10 +92,6 @@ file = "mods/balm.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/bandwidthoptimizer.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/blaha-replushed.pw.toml"
 metafile = true
 
