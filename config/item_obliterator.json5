@@ -19,9 +19,8 @@
     "copycats:copycat_cogwheel",
     "copycats:copycat_shaft",
     "copycats:copycat_large_cogwheel",
-    "createaddition:electrum_amulet",
-    "tide:fish_display"
-  ],
+    "createaddition:electrum_amulet"
+    ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
   // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.

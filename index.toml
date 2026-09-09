@@ -370,10 +370,6 @@ file = "mods/lithostitched.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lmft.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 metafile = true
 
