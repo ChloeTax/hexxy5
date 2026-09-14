@@ -1,6 +1,6 @@
 name = "Create: SchematicChecker"
 filename = "createschematicchecker-2.27.45-6.0-neoforge-1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ULzrAD1U/versions/HXT1LU0B/createschematicchecker-2.27.45-6.0-neoforge-1.21.1.jar"
