@@ -1,13 +1,13 @@
 name = "Mc2Discord"
-filename = "mc2discord-fabric-1.21.x-4.2.4.jar"
+filename = "mc2discord-fabric-1.21.1-4.3.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Cfbcv7uF/versions/Gl8sM8TE/mc2discord-fabric-1.21.x-4.2.4.jar"
+url = "https://cdn.modrinth.com/data/Cfbcv7uF/versions/DMPrPJ5g/mc2discord-fabric-1.21.1-4.3.0.jar"
 hash-format = "sha512"
-hash = "e70ab42fd90eefbe791806c07857965d39e95ccacab424803d5b7ff7650ab77f7516b39923e5c12b7683ee9dc15f0a48bc9fa172745dce7f7fc317ea20c24033"
+hash = "5ff2ca70cb16f7e448fe29c3bc4b7f24bbe9457b81fb5747200831636d2a4f2b72d3b01426171f5ff218f90fb51659b67550d7c41d123af1ca2ede884e4a8cbd"
 
 [update]
 [update.modrinth]
 mod-id = "Cfbcv7uF"
-version = "Gl8sM8TE"
+version = "DMPrPJ5g"
