@@ -526,6 +526,10 @@ file = "mods/simulated-copycats.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/slate-works.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 metafile = true
 
