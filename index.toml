@@ -611,3 +611,6 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 metafile = true
+
+[[files]]
+file = "scripts/recipes/merge_phials.zs"
