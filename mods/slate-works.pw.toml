@@ -1,13 +1,13 @@
 name = "Slate Works"
-filename = "Slate_Work-3.0.1-hex-pre48.jar"
+filename = "Slate_Work-3.0.2-hex-pre48.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3DnSSjl3/versions/kBoXMzCI/Slate_Work-3.0.1-hex-pre48.jar"
+url = "https://cdn.modrinth.com/data/3DnSSjl3/versions/LrUHpTa1/Slate_Work-3.0.2-hex-pre48.jar"
 hash-format = "sha512"
-hash = "9bdde66ac5f2663b46bb23c4c1f3660ac91ff885dabc2bbc4389155c9e8e0c639eed2465ce57533886d54462ae53456c890b8bde4e184f58d2a3511764722ab1"
+hash = "c610ea274cad98021000b9059d5299f2b2318aff2d91b83683e3f54a998a456b834f1dfeab4a8662be43460e358895768dcd95a80df36230b86c52bf3b1956b1"
 
 [update]
 [update.modrinth]
 mod-id = "3DnSSjl3"
-version = "kBoXMzCI"
+version = "LrUHpTa1"
