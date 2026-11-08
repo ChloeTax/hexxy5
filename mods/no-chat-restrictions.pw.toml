@@ -1,13 +1,13 @@
 name = "No Chat Restrictions"
-filename = "NoChatRestrictions-Fabric-MC1.21.11-v1.0.2.jar"
+filename = "NoChatRestrictions-Fabric-MC1.21.11-v1.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/z440MEwJ/versions/Wmvqt0wm/NoChatRestrictions-Fabric-MC1.21.11-v1.0.2.jar"
+url = "https://cdn.modrinth.com/data/z440MEwJ/versions/J95EIHAC/NoChatRestrictions-Fabric-MC1.21.11-v1.0.3.jar"
 hash-format = "sha512"
-hash = "3b576bbd7d60108fbcef4a86ee374d3b03e639b3f5d41718cdd232d8573482c5b379fbd7cfacb3c80adc242e07f7bbe4f6d33b98eda8b813a05d360606bee9e7"
+hash = "c2a38fd91dd7d3405201599045152235daab161edc0045f80027c86480974ad1b2646d7a4380f56e3e5eaa4d5c929b73d9398c2b0880272b8266d6821e543006"
 
 [update]
 [update.modrinth]
 mod-id = "z440MEwJ"
-version = "Wmvqt0wm"
+version = "J95EIHAC"

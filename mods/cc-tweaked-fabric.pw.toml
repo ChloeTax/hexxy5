@@ -1,13 +1,13 @@
 name = "CC: Tweaked"
-filename = "cc-tweaked-1.21.1-fabric-1.120.2.jar"
+filename = "cc-tweaked-1.21.1-fabric-1.121.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/GImOHuCi/cc-tweaked-1.21.1-fabric-1.120.2.jar"
+url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/ThbQoK4I/cc-tweaked-1.21.1-fabric-1.121.0.jar"
 hash-format = "sha512"
-hash = "a46b8609f19c3c39312113c640754a255e688d0af726710b10d2372e1f4427a8636e99e6787bd7b1cac83e8a078a7c67c00f2507b752db29b0e8266fb5f1e7bb"
+hash = "7f00c7ed5011d817c8c1405400c1738ddf13971c4a0b7f7a9aa5d98f5e41cc7ac0915c99e36a751e134f009158a1c0078ca354da8395058671d7c40eafc738fd"
 
 [update]
 [update.modrinth]
 mod-id = "gu7yAYhd"
-version = "GImOHuCi"
+version = "ThbQoK4I"

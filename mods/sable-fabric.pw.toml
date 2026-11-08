@@ -1,13 +1,13 @@
 name = "Sable"
-filename = "sable-fabric-1.21.1-2.0.5.jar"
+filename = "sable-fabric-1.21.1-2.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/T9PomCSv/versions/e11C0I1A/sable-fabric-1.21.1-2.0.5.jar"
+url = "https://cdn.modrinth.com/data/T9PomCSv/versions/OLG7vDD6/sable-fabric-1.21.1-2.0.6.jar"
 hash-format = "sha512"
-hash = "1755506757125b76f9aea5675a325765042683819469ffd557f0c2519e055c3a6dd916a8c79a95590e489b764f7fc4430896adc6d4da3b43f9e9c013a72656ec"
+hash = "7fc189a00e65ee08d26deb5760090dbbf5250ef735321d2dac7808afc30c1bf293ce4f035827097a7229cfb5fd61b060d93573e36cf2b94c169e266aa0806d3e"
 
 [update]
 [update.modrinth]
 mod-id = "T9PomCSv"
-version = "e11C0I1A"
+version = "OLG7vDD6"

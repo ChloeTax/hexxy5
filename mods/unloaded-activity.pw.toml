@@ -1,13 +1,13 @@
 name = "Unloaded Activity"
-filename = "unloadedactivity-0.7.2+mc1.21-1.21.1.jar"
+filename = "unloadedactivity-0.7.4+mc1.21-1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Oo4rJCDP/versions/op8NMoDl/unloadedactivity-0.7.2%2Bmc1.21-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/Oo4rJCDP/versions/qojjwGLJ/unloadedactivity-0.7.4%2Bmc1.21-1.21.1.jar"
 hash-format = "sha512"
-hash = "ea515cbf6decc91c246043eb83f4c719b0879e45f972a6516c9bf9ac91e7df19f572a9653cf6accbfa33b01641c6439d58ebc7d8afdec232b4d2637393b9f8a9"
+hash = "e4378bc988f8e3d04c9d147dd0ae1e377d2a1b454b45a0668f37651d7ef6c753a0467323193aa899e9ad9643f77c64a03ee2a9d1506cfb1eaf09b07dd714d860"
 
 [update]
 [update.modrinth]
 mod-id = "Oo4rJCDP"
-version = "op8NMoDl"
+version = "qojjwGLJ"
