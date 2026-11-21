@@ -1,0 +1,8 @@
+name = "SlateWorks"
+filename = "Slate_Work-3.1.0-hex-pre64.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jackdavidson1/SlateWork/releases/download/temp/Slate_Work-3.1.0-hex-pre64.jar"
+hash-format = "sha256"
+hash = "aa8c38d8b2e80f1f38c37ec1d563a94f6ab0b9552b1bd572f2ba4107e7414708"

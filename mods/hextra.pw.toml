@@ -1,0 +1,8 @@
+name = "hextra"
+filename = "hextra-patterns-1.21-1.10.0+1.21.1-devel-pre-5-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jackdavidson1/hextra-patterns-1.21/releases/download/temp/hextra-patterns-1.21-1.10.0+1.21.1-devel-pre-5-fabric-1.21.1.jar"
+hash-format = "sha256"
+hash = "7f38671df11647196174534a615ddc65d5f79f490c33af8eb311aca0a761c67f"
