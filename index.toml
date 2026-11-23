@@ -384,8 +384,9 @@ hash = "83a132233f1f1387a9938942359219ed4d3676757e0ed2a91349cf2af5f534fb"
 metafile = true
 
 [[files]]
-file = "mods/hexcassettes-fabric-1.0.1+1.21.1.jar"
-hash = "7eb8f56996428a19ab37bd7955a51525f5ec3fe726878b4e98a5b649181165d7"
+file = "mods/hexcassettes\n.pw.toml"
+hash = "4c4b3aa48068b3b77a8e8c7d9e552084a69987c9ce94ba5ccde5c15ad95bb6e0"
+metafile = true
 
 [[files]]
 file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-64.jar"
