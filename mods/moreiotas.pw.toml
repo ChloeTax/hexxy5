@@ -1,8 +1,8 @@
 name = "moreiotas"
-filename = "moreiotas-0.1.1-1.21.1-devel-pre-4.jar"
+filename = "moreiotas-0.1.1-1.21.1-devel-pre-3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/jackdavidson1/Moreiotas-neoforge-1.21.1/releases/download/temp/moreiotas-0.1.1-1.21.1-devel-pre-4.jar"
+url = "https://github.com/c-Caelum/Moreiotas-neoforge-1.21.1/releases/download/pre-3/moreiotas-0.1.1-1.21.1-devel-pre-3.jar"
 hash-format = "sha256"
-hash = "e344f277f63cf5252146843fb79aad5bf78a3326096143b98f6d2de5f9cccad4"
+hash = "b1f73f1b3d664197acff9d0790cf0f9b848edf4912301fa151a837e4533bca33"
