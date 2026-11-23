@@ -1,0 +1,8 @@
+name = "hexparty"
+filename = "hexparty-1.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jackdavidson1/Hexparty-1.21.1/releases/download/1.0.1/hexparty-1.1-1.21.1.jar"
+hash-format = "sha256"
+hash = "83b3f163a89c9688f271c414c69c41b00a7b8878e7eeeea5cb00160ebe1c5ca0"

@@ -3,6 +3,6 @@ filename = "ioticblocks-fabric-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/jackdavidson1/IoticBlocks/releases/download/1.0.2/ioticblocks-fabric-1.0.2.jar"
+url = "https://github.com/jackdavidson1/IoticBlocks/releases/download/1.0.2-pre-64/ioticblocks-fabric-1.0.2.jar"
 hash-format = "sha256"
-hash = "39013c7be7e7acf5c2036fbc20341390ec34143cfcc6bd60cf6b5e622c644594"
+hash = "d3575db500f95b5300104f231f191087fd2a983c7b18c7abe92b7afaf6ca5c7c"
