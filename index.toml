@@ -69,6 +69,11 @@ file = "config/xaero/world-map/client.cfg"
 hash = "5becce9b6f4a7c83c4ffd6568562b81f613f14b9ea0455981478e42eb1aef1f5"
 
 [[files]]
+file = "mods/HexParty.pw.toml"
+hash = "4e06377f6d2b8df335b51e22f8da6b2e75a6854ddd4b1da1e98a0422cdc1788a"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "ba7432aebc67e37b6adc4ccd296599dc0fd383f55d2026e79d3f7bb28fc2a89f"
 metafile = true
@@ -350,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/fishcasting.pw.toml"
-hash = "239297c5cc26ae8e294621066388fe4c1b79e3d1a95186b5df4baef09f7c7230"
+hash = "8586f377cf87d1aa3ac430576711d9b2b07bc8f985afa4832ba1502d4eb5ad7a"
 metafile = true
 
 [[files]]
@@ -374,20 +379,22 @@ hash = "cbeb48d7af1bcb06af49d2b1d443929dc144cd36922006a6a66f3e1d0777cc5c"
 metafile = true
 
 [[files]]
-file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-11.jar"
-hash = "53fd377567f0c6eb3f2d3193da6f32f68de34b76f6ecef475371cbf0848ad723"
+file = "mods/hexal.pw.toml"
+hash = "83a132233f1f1387a9938942359219ed4d3676757e0ed2a91349cf2af5f534fb"
+metafile = true
 
 [[files]]
-file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-13.jar"
-hash = "baa8d266fd1e7b710dbb3a1ab83978964a4032471a0e1810d6e06548fef86048"
+file = "mods/hexcassettes.pw.toml"
+hash = "87dd81592add09d11eced8968ba9eaa61674e2120fb62867a4257bba7021ab70"
+metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-52.jar"
-hash = "607e5ba16fcb8fa574c8c42892f8ac7f7839bb5458ef6f4da365560e02207e1e"
+file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-64.jar"
+hash = "8492729ed3aedb819f1dfbfce700e99051fe8e02d0aa28e63368a3a1b4c3c0c5"
 
 [[files]]
-file = "mods/hextra-patterns.pw.toml"
-hash = "7c2a4edc4033b2ddad1fc1e4239666f54c78ed9a2b787e3bca696867b695c2c5"
+file = "mods/hextra.pw.toml"
+hash = "6d6b23fe32ecfdb878d68d61437b37b4707c785480ac39637e74b14ed4e43c60"
 metafile = true
 
 [[files]]
@@ -402,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/ioticblocks.pw.toml"
-hash = "1ccb7e18f94d910d0a14a4fe4ed5cd1246aea113c4d54b71dc296bf81c04182f"
+hash = "f5daf830c4b46ab03745f5e6646368ab6f83e99872181c060f1c98362b89232e"
 metafile = true
 
 [[files]]
@@ -512,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
-hash = "621eb6bc14943fb575760b6147d7c769afb98819863b8ff23bebe4f6a1affbdb"
+hash = "2215275e50bb4ec4eee3714b1646a366f8ed4430a1fc22c8aab3971d92ead87f"
 metafile = true
 
 [[files]]
@@ -671,8 +678,8 @@ hash = "d51634fccfc5064d7f60f8863ba9b83c489d8e62e68f5d431f7c9fa7434a4c98"
 metafile = true
 
 [[files]]
-file = "mods/slate-works.pw.toml"
-hash = "22b8d231ad630b87e9330d93abc0d77b36ec1689494cade6bdef39fe39063272"
+file = "mods/slate-work.pw.toml"
+hash = "964351fce04b9aea3a111537e70a52453e9552f4233f5545a761168bad5f91ed"
 metafile = true
 
 [[files]]
@@ -751,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-casting.pw.toml"
-hash = "2003ee9e8d89234b68de978592ae4d0e8c9a05b9f69430acef03d75081e7972f"
+hash = "4590062114eaed80949bba4e3300673e2a6db482e7b7687fbd9115af3a6a8814"
 metafile = true
 
 [[files]]

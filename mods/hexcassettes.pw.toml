@@ -1,0 +1,8 @@
+name = "hexcassettes"
+filename = "hexcassettes-fabric-1.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Real-Luxof/hexcassettes/releases/download/v1.0.2%2B1.21.1/hexcassettes-fabric-1.0.2+1.21.1.jar"
+hash-format = "sha256"
+hash = "e0af2fd5cf4d18c8be86fecb5f02eca65d7d890271c32201c45597e6b8db35a0"
