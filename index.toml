@@ -52,6 +52,10 @@ file = "config/xaero/minimap/profiles/default.cfg"
 file = "config/xaero/world-map/client.cfg"
 
 [[files]]
+file = "mods/HexParty.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 metafile = true
 
@@ -296,17 +300,17 @@ file = "mods/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-11.jar"
-
-[[files]]
-file = "mods/hexcassettes.pw.toml"
+file = "mods/hexal.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-52.jar"
+file = "mods/hexcassettes-fabric-1.0.1+1.21.1.jar"
 
 [[files]]
-file = "mods/hextra-patterns.pw.toml"
+file = "mods/hexcasting-fabric-1.21.1-0.12.0-devel-pre-64.jar"
+
+[[files]]
+file = "mods/hextra.pw.toml"
 metafile = true
 
 [[files]]
@@ -534,7 +538,7 @@ file = "mods/simulated-copycats.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/slate-works.pw.toml"
+file = "mods/slate-work.pw.toml"
 metafile = true
 
 [[files]]

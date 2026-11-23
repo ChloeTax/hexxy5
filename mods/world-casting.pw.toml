@@ -3,6 +3,6 @@ filename = "world-casting-fabric-1.21.1-0.0.1-8.jar"
 side = "both"
 
 [download]
-url = "https://maven.ryanhcode.dev/releases/dev/kyanbirb/world_casting/world-casting-fabric-1.21.1/0.0.1-8/world-casting-fabric-1.21.1-0.0.1-8.jar"
+url = "https://maven.ryanhcode.dev/releases/dev/kyanbirb/world_casting/world-casting-fabric-1.21.1/0.0.1-11/world-casting-fabric-1.21.1-0.0.1-11.jar"
 hash-format = "sha256"
-hash = "7ee0a97903e3c0be6693fbfab7b88c31cd922287a936a5551d79bb90f4da2ec2"
+hash = "87811c2b2f503cea08c006a6b9fc345fd536199289d6a70404a30af59a683bb7"
