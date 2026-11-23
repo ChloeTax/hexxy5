@@ -1,0 +1,13 @@
+name = "Slate Works"
+filename = "Slate_Work-3.1.0-hex-pre48.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3DnSSjl3/versions/AdDehgK0/Slate_Work-3.1.0-hex-pre48.jar"
+hash-format = "sha512"
+hash = "00fad53c473f09d7f906ffdeee6eeac5f20ad5d7f248f89b8c64292926bc58a4516e9fe87a9de051621455835b3f0ccabec4f465eb744bf230adcd0b50560b7e"
+
+[update]
+[update.modrinth]
+mod-id = "3DnSSjl3"
+version = "AdDehgK0"
